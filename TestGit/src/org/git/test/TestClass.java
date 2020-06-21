@@ -7,6 +7,7 @@ public class TestClass {
 	 */
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
+		System.out.println("Change again");
 		System.out.println("This is main");
 		System.out.println("Added after from UI");
 	}
